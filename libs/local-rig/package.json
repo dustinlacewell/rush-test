@@ -1,0 +1,17 @@
+{
+  "name": "local-rig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dustin Lacewell",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "~4.3.5",
+    "eslint": "~7.30.0",
+    "@typescript-eslint/parser": "~4.28.2",
+    "@typescript-eslint/eslint-plugin": "~4.28.2"
+  }
+}
